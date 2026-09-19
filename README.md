@@ -1,5 +1,5 @@
 # Canada Retail Sales & Profitability Dashboard
-
+![Canada Retail Sales Dashboard](./Screenshot%202026-09-19%20162952.png)
 An interactive Power BI dashboard designed to analyze retail sales performance, profitability, customer activity, and order fulfillment across Canadian provinces.
 
 ## 📊 Key Business Performance Indicators (KPIs)
